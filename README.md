@@ -5,7 +5,9 @@
 
 🎯 My goal is to become a **Data Engineer in mobility systems** and urban technology innovation. 
 
-📍 Based in Barcelona
+## 🧠 Techstack
+
+`.py` · `.sql` · `.GIS` · `.java` · `.r`
 
 ## 📣 Let's connect
 
