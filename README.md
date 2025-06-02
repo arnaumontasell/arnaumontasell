@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**arnaumontasell/arnaumontasell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Arnau!
 
-Here are some ideas to get you started:
+🚀 I'm a **Smart Cities Engineer**, with specialized training in **Data Science Applied to Urban Mobility**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My goal is to become a **Data Engineer in mobility systems** and urban technology innovation. 
+
+📍 Based in Barcelona
+
+## 📣 Let's connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat&link=https://www.linkedin.com/in/arnausmartcities/)](https://www.linkedin.com/in/arnau-montasell-escriche/)
+
+[![Gmail Badge](https://img.shields.io/badge/-arnaumontasell-c14438?logo=Gmail&logoColor=white&style=flat&link=mailto:arnaumontasell)](mailto:arnaumontasell@gmail.com)
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnaumontasell&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaumontasell&layout=compact)
